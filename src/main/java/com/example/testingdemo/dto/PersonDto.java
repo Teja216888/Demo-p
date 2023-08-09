@@ -8,4 +8,5 @@ public class PersonDto {
     private String id;
     private String firstName;
     private String lastName;
+    //salary
 }
